@@ -1,5 +1,4 @@
 #!/bin/bash
-# build.sh
 APP_DIR="/Applications/BozoExecuter.app"
 ARCH=$(uname -m)
 
